@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "N_QuuensProblemSolver",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "N_QuuensProblemSolver::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-N_QuuensProblemSolver-Debug-7e5ea5f9fd6225cbed9c.json",
+					"name" : "N_QuuensProblemSolver",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/bilgekaan/Desktop/Dump/Dersler dersler/CS300/HWs/HW1/N-QuuensProblemSolver/cmake-build-debug",
+		"source" : "/Users/bilgekaan/Desktop/Dump/Dersler dersler/CS300/HWs/HW1/N-QuuensProblemSolver"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

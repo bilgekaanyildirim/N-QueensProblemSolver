@@ -1,0 +1,3 @@
+/Users/bilgekaan/Desktop/Dump/Dersler dersler/CS300/HWs/HW1/N-QuuensProblemSolver/cmake-build-debug/CMakeFiles/N_QuuensProblemSolver.dir
+/Users/bilgekaan/Desktop/Dump/Dersler dersler/CS300/HWs/HW1/N-QuuensProblemSolver/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/bilgekaan/Desktop/Dump/Dersler dersler/CS300/HWs/HW1/N-QuuensProblemSolver/cmake-build-debug/CMakeFiles/rebuild_cache.dir

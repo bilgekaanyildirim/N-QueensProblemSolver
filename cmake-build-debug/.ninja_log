@@ -1,0 +1,8 @@
+# ninja log v5
+1	343	1742383536319485820	CMakeFiles/N_QuuensProblemSolver.dir/stack.cpp.o	1e3b532a72d61f0e
+0	428	1742383536404547108	CMakeFiles/N_QuuensProblemSolver.dir/main.cpp.o	4a87f2be42c2799f
+428	465	1742383536443395804	N_QuuensProblemSolver	f9b55e26799a8599
+3	609	1742383822046973321	CMakeFiles/N_QuuensProblemSolver.dir/main.cpp.o	4a87f2be42c2799f
+609	723	1742383822162312613	N_QuuensProblemSolver	f9b55e26799a8599
+3	464	1742383921624482785	CMakeFiles/N_QuuensProblemSolver.dir/main.cpp.o	4a87f2be42c2799f
+464	502	1742383921663818982	N_QuuensProblemSolver	f9b55e26799a8599
